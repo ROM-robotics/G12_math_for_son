@@ -44,7 +44,7 @@ Permutation နှင့် Combination သည် **ရေတွက်ခြင�
 ![repeated](https://latex.codecogs.com/svg.image?%5Ctext%7BTotal%7D%20=%20%5Cfrac%7Bn!%7D%7Bp!%20q!%20r!%20...%7D)
 
 #### (၃) exclude ဆိုရင်
-Total ထဲက ပြန်နှုတ်
+- Total ထဲက ပြန်နှုတ်
 ---
 
 ### ၅။ Combination (ရွေးချယ်ခြင်း)
